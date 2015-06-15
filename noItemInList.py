@@ -12,8 +12,6 @@ def count (sequence, item):
        
 
 count(["Aditya",4,5,6,7,8, 1.234, "Aditya", 'A'], "Aditya")
-#count('Aditya is good', 'is')
-#count(2, 1)
-#count('A', 'A')
+
 
 
